@@ -12,6 +12,7 @@ namespace GitConsoleApplication1
         {
             Console.Write("Test");
             Console.Write("Test2");
+
             Console.ReadKey();
         }
     }
